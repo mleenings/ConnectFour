@@ -1,0 +1,13 @@
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\VierGewinnt.Properties.Resources.resources
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\bin\Debug\VierGewinnt.exe
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\bin\Debug\VierGewinnt.pdb
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\VierGewinnt.exe
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\VierGewinnt.pdb
+C:\Dokumente und Einstellungen\mleen\Eigene Dateien\Visual Studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\VierGewinnt.ConnectFour.resources
+C:\Dokumente und Einstellungen\mleen\eigene dateien\visual studio 2010\Projects\VierGewinnt\VierGewinnt\bin\Debug\VierGewinnt.exe.manifest
+C:\Dokumente und Einstellungen\mleen\eigene dateien\visual studio 2010\Projects\VierGewinnt\VierGewinnt\bin\Debug\VierGewinnt.application
+C:\Dokumente und Einstellungen\mleen\eigene dateien\visual studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\VierGewinnt.exe.manifest
+C:\Dokumente und Einstellungen\mleen\eigene dateien\visual studio 2010\Projects\VierGewinnt\VierGewinnt\obj\x86\Debug\VierGewinnt.application
