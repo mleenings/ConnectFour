@@ -2,15 +2,15 @@
 Connect Four
 
 Features:
-- minimale Spielfeldgroesse: 4x4
-- maximale Spielfeldgroesse: 20x20
-- Spielfeldgroese individuell aenderbar
-- Namen aenderbar durch doppelklick auf den Namen
-- Maximale Namenlaenge: 10
-- Namen werden zurueckgesetzt, wenn man den Spielmodus aendert und das Spiel neu startet
-- Ergebnisse werden mit einem doppelklick auf den Ergebnissen zurueck gesetzt
-- Gewinnreihe wird hervorgehoben
-- Hilfe-Messagebox fuer nicht intuitive Spielbedienung, wie Namen aendern oder Ergebnisse zuruecksetzten
-- zwei Spielmodi: Mensch vs. Mensch und Mensch vs. Computer
-- Schwierigkeitsgrad ist aenderbar zwischen 0 (leicht) und 5 (schwierig)
-- KI beruht auf dem Alpha-Beta-Algrotihmus
+- minimum field size: 4x4
+- maximum field size: 20x20
+- Field size can be changed individually
+- Names can be changed by double clicking on the name
+- maximum name length: 10
+- names are reset when you change the game mode and restart the game
+- Results are reset with a double click on the results
+- Winning streak is highlighted
+- help message box for non-intuitive game operations, like changing names or resetting results
+- two game modes: human vs. human and human vs. computer
+- difficulty level is changeable between 0 (easy) and 5 (difficult)
+- AI is based on the alpha-beta algorithm
